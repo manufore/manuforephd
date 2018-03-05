@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1501158946",
     "id" : "9BABB798",
-    "lastKnownWriteTime" : 1520212435,
-    "last_content_update" : 1520212435803,
+    "lastKnownWriteTime" : 1520222819,
+    "last_content_update" : 1520222819527,
     "path" : "~/GitHub/manuforephd/content/project/phdproject.md",
     "project_path" : "content/project/phdproject.md",
     "properties" : {
-        "cursorPosition" : "22,0",
-        "scrollLine" : "3"
+        "cursorPosition" : "5,42",
+        "scrollLine" : "1"
     },
     "relative_order" : 3,
     "source_on_save" : false,

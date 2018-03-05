@@ -3,7 +3,7 @@
 date = "2018-03-05"
 
 # Project title.
-title = "Genetic and environmental controls of traits affecting profitability of pulp & solid-wood production from plantation-grown Eucalyptus nitens"
+title = "Genetic and environmental control of traits affecting profitability of pulp & solid-wood production from plantation-grown Eucalyptus nitens"
 
 # Project summary to display on homepage.
 summary = "Genetic improvement of Eucalyptus nitens."
