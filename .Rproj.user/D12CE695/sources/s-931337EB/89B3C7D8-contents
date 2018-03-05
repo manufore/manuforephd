@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Manuel F. Rocha Sepúlveda"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -50,20 +50,20 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Manuel F. Rocha Sepúlveda"
+  role = "PhD (candidate) by research"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Univeristy of Tasmania", url = "http://www.utas.edu.au/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "manuel.rocha@utas.edu.au"
+  address = "Building 34 Room 272, University of Tasmania, Tasmania, 7005, Australia"
+  # office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  # phone = "0424925142"
+  # skype = "manuel.rocha@utas.edu.au"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -217,23 +217,27 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:manuel.rocha@utas.edu.au"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/manufore"
 
   [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
-
-  [[params.social]]
-    icon = "github"
+    icon = "linkedin"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "https://www.linkedin.com/in/manuel-rocha-981522aa/"
 
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0001-8547-3795"
+    
+      [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Manuel_Rocha6"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

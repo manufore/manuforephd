@@ -1,33 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Academic</title>
+    <title>Projects on Manuel F. Rocha Sepúlveda</title>
     <link>/project/</link>
-    <description>Recent content in Projects on Academic</description>
+    <description>Recent content in Projects on Manuel F. Rocha Sepúlveda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Deep Learning</title>
-      <link>/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Genetic and environmental controls of traits affecting profitability of pulp &amp; solid-wood production from plantation-grown Eucalyptus nitens</title>
+      <link>/project/phdproject/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/project/deep-learning/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/example-external-project/</guid>
-      <description></description>
+      <guid>/project/phdproject/</guid>
+      <description>Eucalyptus nitens is the main plantation eucalypt in Tasmania with around 208,000 hectares, where it is grown for pulp, timber and other engineered wood products. In Tasmania, over the period 2015-19, it has been estimated that around 4% of hardwood log volume will come from plantations managed under solid-wood silvicultural regimes (i.e. thinned and pruned) and this is predicted to increase due to the need to replace the diminishing supply of logs from native forest resources.</description>
     </item>
     
   </channel>

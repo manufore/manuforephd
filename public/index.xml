@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Academic</title>
+    <title>Manuel F. Rocha Sepúlveda on Manuel F. Rocha Sepúlveda</title>
     <link>/</link>
-    <description>Recent content in Academic on Academic</description>
+    <description>Recent content in Manuel F. Rocha Sepúlveda on Manuel F. Rocha Sepúlveda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -11,48 +11,141 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Academic</title>
+      <link>/temp/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +1100</pubDate>
+      
+      <guid>/temp/home/hero/</guid>
+      <description>&lt;p&gt;The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀
+&lt;br&gt;
+&lt;small&gt;&lt;a id=&#34;academic-release&#34; href=&#34;https://sourcethemes.com/academic/updates&#34;&gt;Latest release&lt;/a&gt;&lt;/small&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;iframe style=&#34;display: inline-block;&#34; src=&#34;https://ghbtns.com/github-btn.html?user=gcushen&amp;amp;repo=hugo-academic&amp;amp;type=star&amp;amp;count=true&amp;amp;size=large&#34; scrolling=&#34;0&#34; width=&#34;160px&#34; height=&#34;30px&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;iframe style=&#34;display: inline-block;&#34; src=&#34;https://ghbtns.com/github-btn.html?user=gcushen&amp;amp;repo=hugo-academic&amp;amp;type=fork&amp;amp;count=true&amp;amp;size=large&#34; scrolling=&#34;0&#34; width=&#34;158px&#34; height=&#34;30px&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+  (function defer() {
+    if (window.jQuery) {
+      jQuery(document).ready(function(){
+        GetLatestReleaseInfo();
+      });
+    } else {
+      setTimeout(function() { defer() }, 50);
+    }
+  })();  
+  function GetLatestReleaseInfo() {
+    $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) {
+      let release = json[0];
+      // let downloadURL = release.zipball_url;
+      $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name);  
+    });    
+}  
+&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/temp/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/temp/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/temp/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/temp/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/temp/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/temp/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/temp/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/temp/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/temp/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/temp/home/teaching/</guid>
+      <description>&lt;p&gt;This is an example of using the &lt;em&gt;custom&lt;/em&gt; widget to create your own homepage section.&lt;/p&gt;
+
+&lt;p&gt;I am a teaching instructor for the following courses at University X:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CS101: An intro to computer science&lt;/li&gt;
+&lt;li&gt;CS102: An intro to computer science&lt;/li&gt;
+&lt;li&gt;CS103: An intro to computer science&lt;/li&gt;
+&lt;li&gt;CS104: An intro to computer science&lt;/li&gt;
+&lt;li&gt;CS105: An intro to computer science&lt;/li&gt;
+&lt;li&gt;CS106: An intro to computer science&lt;/li&gt;
+&lt;li&gt;CS107: An intro to computer science&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/temp/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +1000</pubDate>
+      
+      <guid>/temp/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic and environmental controls of traits affecting profitability of pulp &amp; solid-wood production from plantation-grown Eucalyptus nitens</title>
+      <link>/project/phdproject/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/phdproject/</guid>
+      <description>&lt;p&gt;Eucalyptus nitens is the main plantation eucalypt in Tasmania with around 208,000 hectares, where it is grown for pulp, timber and other engineered wood products. In Tasmania, over the period 2015-19, it has been estimated that around 4% of hardwood log volume will come from plantations managed under solid-wood silvicultural regimes (i.e. thinned and pruned) and this is predicted to increase due to the need to replace the diminishing supply of logs from native forest resources. Thus there is need to produce higher value solid-wood products from plantations. The genetic improvement of this E. nitens plantation resource has traditionally focused on selection traits, which are related to breeding traits (e.g. harvest age volume, basic density and pulp yield) which affect the economics of producing pulp. However, with increasing interest in using and improving plantations for veneer and timber production other traits apart from growth and wood density are of potential importance. Such traits include tree form and wood properties such as checking and wood stiffness. However, research is required on the environmental effects on and genetic control of these selection traits. This project will exploit historic data sets and new measurements in field trials established across the E. nitens plantation estate in Tasmania to study the influence of genetics and environment on these solid-wood selection traits.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
+      <link>/temp/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
       
-      <guid>/talk/example-talk/</guid>
+      <guid>/temp/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>External Project</title>
-      <link>/project/example-external-project/</link>
+      <link>/temp/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/example-external-project/</guid>
+      <guid>/temp/project/example-external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>/temp/posts/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
       
-      <guid>/post/getting-started/</guid>
+      <guid>/temp/posts/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
@@ -237,20 +330,20 @@ git submodule update --init --recursive
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
+      <link>/temp/publications/person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
+      <guid>/temp/publications/person-re-identification/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>/temp/posts/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/temp/posts/2015-07-23-r-rmarkdown/</guid>
       <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
@@ -295,10 +388,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
+      <link>/temp/publications/clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
+      <guid>/temp/publications/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
