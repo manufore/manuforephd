@@ -11,7 +11,6 @@ weight = 5
 [interests]
   interests = [
     "Quantitative genetics",
-    "Genomic selection",
     "Wood properties"
   ]
 
@@ -26,4 +25,4 @@ weight = 5
 
 # Biography
 
-Manuel graduated in Forestry from University Austral of Chile with distinction, in 2012. He worked for 4 years at the Tree Breeding Cooperative in Chile supporting forestry companies to develop their tree improvement programs. He is working with the ARC Centre for Forest Value and his PhD studies will be on the genetic improvement and deployment of Eucalyptus nitens, Tasmania’s main plantation eucalypt.
+Manuel graduated in Forestry from University Austral of Chile, in 2012. He worked for 4 years at the Tree Breeding Cooperative in Chile supporting forestry companies to develop their tree improvement programs. He is working with the ARC Centre for Forest Value and his PhD studies will be on the genetic improvement and deployment of Eucalyptus nitens, Tasmania’s main plantation eucalypt.
